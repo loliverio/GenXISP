@@ -1,0 +1,11 @@
+,Network_zones,ESR_1
+CNQ,z1,0.5
+GG,z2,0.5
+SQ,z3,0.5
+NNSW,z4,0.5
+CNSW,z5,0.5
+SNW,z6,0.5
+SNSW,z7,0.5
+VIC,z8,0.5
+SA,z9,0.5
+TAS,Z10,0.5
