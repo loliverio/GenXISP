@@ -1,0 +1,11 @@
+,Network_zones,CapRes_1
+CNQ,z1,0.1
+GG,z2,0.1
+SQ,z3,0.1
+NNSW,z4,0.1
+CNSW,z5,0.1
+SNW,z6,0.1
+SNSW,z7,0.1
+VIC,z8,0.1
+SA,z9,0.1
+TAS,Z10,0.1

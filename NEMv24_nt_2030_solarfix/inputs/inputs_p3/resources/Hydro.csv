@@ -1,0 +1,11 @@
+Resource,Zone,Model,New_Build,Can_Retire,Existing_Cap_MW,Existing_Cap_MWh,Max_Cap_MW,Min_Cap_MW,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Fuel,Min_Power,Self_Disch,Eff_Up,Eff_Down,Hydro_Energy_to_Power_Ratio,Ramp_Up_Percentage,Ramp_Dn_Percentage,Up_Time,Down_Time,LDS,region,cluster
+CNQ_RS,1,1,0,1,163.4,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,CNQ,1
+GG_RS,2,1,0,1,0,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,GG,1
+SQ_RS,3,1,0,1,0,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,SQ,1
+NNSW_RS,4,1,0,1,32.97,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,NNSW,2
+CNSW_RS,5,1,0,1,48,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,CNSW,2
+SNW_RS,6,1,0,1,0,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,SNW,2
+SNSW_RS,7,1,0,1,2342,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,SNSW,2
+VIC_RS,8,1,0,1,2292.23,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,VIC,3
+SA_RS,9,1,0,1,0,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,SA,4
+TAS_RS,10,1,0,1,2294.2,0,-1,0,0,58000,7.19,None,0,0,1,1,1,5,5,0,0,0,TAS,5
